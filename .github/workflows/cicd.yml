@@ -9,7 +9,7 @@ on:
 
 
 jobs:
-  terraform:
+   terraform:
     name: 'TerraformAzureCloud'
     runs-on: ubuntu-latest
 
